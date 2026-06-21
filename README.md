@@ -1,2 +1,49 @@
-# my-learning-repo
-学習記録
+# 🚀 Tech Exploration & Sandbox
+
+自分の学習プロセス、技術ノート、そして手を動かしたコード（砂場）をすべて集約していくナレッジベースです。
+学習内容をアウトプットし、定期的に振り返ることで、自身の成長の方向性を最適化することを目的としています。
+---
+
+## 🧭 ナレッジ・インデックス（学習コラム）
+
+分野ごとのノートやサンプルコードへのリンクです。クリックすると各ディレクトリやドキュメントへジャンプします。
+
+| カテゴリ | 重点テーマ | トラブルシューティング | 状態 |
+| :--- | :--- | :--- | :--- |
+| **☕ Java & Backend** | [言語仕様・資格対策](./docs/java/) | [エラー備忘録](./docs/java/trouble.md) | 🌱 育成中 |
+| **🎨 UI/UX & Design** | [Figma・コンポジション](./docs/design/) | [デザインレビュー](./docs/design/notes.md) | 💡 随時更新 |
+| **⚡ Frontend** | [Vue 3 / React](./docs/frontend/) | [Vercelデプロイ関連](./docs/frontend/vercel.md) | 🛠️ 構築中 |
+| **💾 DB & Infra** | [SQL・Supabase / Docker](./docs/infra/) | [環境構築メモ](./docs/infra/docker.md) | 💤 お休み中 |
+| **🛠️ Automation / MyTools** | [iOSショートカット・自動化](./docs/tools/) | [JSON構成案](./docs/tools/json.md) | 🔥 進行中 |
+
+---
+
+## 🛠️ 現在進行中のプロジェクト / チャレンジ
+
+今まさに熱量を持って取り組んでいるテーマや、直近の目標です。
+
+* **Java Silver 資格対策**
+    * 目的：言語仕様の再インプットと基礎固め。問題集の間違えた箇所を `docs/java/` にスクラップ。
+* **デザインスキルの習慣化ルーティン**
+    * 目的：Figmaを使ったコンポジション、配色理論の実践トレースログの蓄積。
+* **日常の自動化スクリプト開発**
+    * 目的：iOSショートカットとJSON連携を用いた、自作レシピ計算ツールの機能拡張。
+
+---
+
+## 🫧 開発・学習環境 (Sandbox Environment)
+
+自分の手元で動かしている、お気に入りの開発環境やツールたち。
+
+* **OS/PC:** Windows (HP Workstation)
+* **Editor/IDE:** VS Code / IntelliJ IDEA
+* **AI Pair Programmer:** GitHub Copilot Pro（モデル：Claude 3.5 Sonnet / GPT-4o）
+* **Design Tool:** Figma
+
+---
+
+## 📝 備忘録・マイルール
+
+* **完璧を目指さない**: 綺麗にまとめようとせず、未来の自分が助かる「箇条書き」と「コピペ用コード」があれば100点とする。
+
+---
