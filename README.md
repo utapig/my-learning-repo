@@ -11,17 +11,13 @@
 
 ---
 
-## ナレッジ・インデックス（学習コラム）
+## 学習方針
 
-分野ごとのノートやサンプルコードへのリンクです。クリックすると各ディレクトリやドキュメントへジャンプします。
+時間の使い方や学習方法といった、プライベートでの学習における方針です。
 
-| カテゴリ | 重点テーマ | トラブルシューティング | 状態 |
-| :--- | :--- | :--- | :--- |
-| **☕ Java & Backend** | [言語仕様・資格対策](./docs/java/) | [エラー備忘録](./docs/java/trouble.md) | 🌱 育成中 |
-| **🎨 UI/UX & Design** | [Figma・コンポジション](./docs/design/) | [デザインレビュー](./docs/design/notes.md) | 💡 随時更新 |
-| **⚡ Frontend** | [Vue 3 / React](./docs/frontend/) | [Vercelデプロイ関連](./docs/frontend/vercel.md) | 🛠️ 構築中 |
-| **💾 DB & Infra** | [SQL・Supabase / Docker](./docs/infra/) | [環境構築メモ](./docs/infra/docker.md) | 💤 お休み中 |
-| **🛠️ Automation / MyTools** | [iOSショートカット・自動化](./docs/tools/) | [JSON構成案](./docs/tools/json.md) | 🔥 進行中 |
+|　テーマ | 内容 | 期間 |
+| :--- | :--- | :--- |
+| 通勤中はAI & 休日はミニアプリ開発 | [AI&app-development](./docs/java/AI&app-development.md) | 2026/5/27 ～ |
 
 ---
 
@@ -38,7 +34,7 @@
 
 | プロジェクト名 | 開始日 | 終了日 | 完了状態 | リポジトリ |
 | :--- | :--- | :--- | :--- | :--- |
-| Java 基礎の学習を目的としたアプリ開発 | 5/9 | | 進行中 | https://github.com/utapig/javasilver-study-portfolio |
+| Java 基礎の学習を目的としたアプリ開発 | 2026/5/9 | - | 進行中 | https://github.com/utapig/javasilver-study-portfolio |
 
 ---
 
