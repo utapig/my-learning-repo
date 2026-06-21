@@ -17,7 +17,7 @@
 
 |　テーマ | 内容 | 期間 |
 | :--- | :--- | :--- |
-| 通勤中はAI & 休日はミニアプリ開発 | [AI&app-development](./docs/java/AI&app-development.md) | 2026/5/27 ～ |
+| 通勤中はAI & 休日はミニアプリ開発 | [AI&app-development](./docs/plan/AI&app-development.md) | 2026/5/27 ～ |
 
 ---
 
